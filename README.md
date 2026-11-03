@@ -60,11 +60,17 @@ I don't just want to write code. I want to understand how things work and build 
   <img src="https://streak-stats.demolab.com?user=arafatlab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+
 ## `04 // CONTRIBUTION ACTIVITY`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafatlab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img
+    src="https://raw.githubusercontent.com/arafatlab/arafatlab/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
+
 
 ## `05 // CURRENTLY BUILDING`
 
