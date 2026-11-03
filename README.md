@@ -49,15 +49,22 @@ I don't just want to write code. I want to understand how things work and build 
 - 🐧 Linux, macOS & System Exploration
 - 🧪 Experimental Software Projects
 
+
 ## `03 // GITHUB ANALYTICS`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arafatlab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatlab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api?username=arafatlab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub statistics" />
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arafatlab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arafatlab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=arafatlab&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak" />
 </p>
 
 
