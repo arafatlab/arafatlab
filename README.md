@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniscopearafat&label=PROFILE+VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/aniscopearafat?label=FOLLOWERS&style=for-the-badge&color=blueviolet" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aniscopearafat?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=arafatlab&label=PROFILE+VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/arafatlab?label=FOLLOWERS&style=for-the-badge&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/arafatlab?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
 ---
@@ -52,18 +52,18 @@ I don't just want to write code. I want to understand how things work and build 
 ## `03 // GITHUB ANALYTICS`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aniscopearafat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniscopearafat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arafatlab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatlab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aniscopearafat&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=arafatlab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## `04 // CONTRIBUTION ACTIVITY`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniscopearafat&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafatlab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </p>
 
 ## `05 // CURRENTLY BUILDING`
@@ -97,7 +97,7 @@ while True:
 ## `07 // CONNECT WITH ME`
 
 <p align="center">
-  <a href="https://github.com/aniscopearafat">
+  <a href="https://github.com/arafatlab">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
